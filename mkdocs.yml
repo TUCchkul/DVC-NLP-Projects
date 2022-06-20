@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: DVC-NLP-Projects
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -8,8 +8,8 @@ site_author: Kulakirti Chakma
 site_description: >-
   DESCRIPTION
 # Repository
-repo_name: TUCchkul/REPO_NAME
-repo_url: https://github.com/TUCchkul/REPO_NAME
+repo_name: TUCchkul/DVC-NLP-Projects
+repo_url: https://github.com/TUCchkul/DVC-NLP-Projects
 
 # Configuration
 theme:
